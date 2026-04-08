@@ -8,7 +8,7 @@ export default function Projects() {
             title: "Online Chat",
             description:
                 "Real-time chat app using React and Socket.io. Supports messaging, media sharing, and live updates.",
-            img: "/images/chatimg.png",
+            img: "/images/chat-img.png",
         },
         {
             title: "TextCraft",

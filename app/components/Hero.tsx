@@ -42,7 +42,27 @@ export default function Hero() {
                 >
                     Full Stack Developer specializing in React, Next.js, and Node.js, focused on building scalable, high-performance web applications.
                 </motion.p>
+                <motion.div
+                    className="mt-4 flex gap-10 justify-center text-gray-300"
+                >
 
+                    <motion.a
+                        href="https://github.com/varsha016"
+                        target="_blank"
+                        className="hover:text-white"
+                    >
+                        GitHub
+                    </motion.a>
+
+                    <motion.a
+                        href="https://www.linkedin.com/in/varsha-harkal-b851b623a/"
+                        target="_blank"
+                        className="hover:text-white"
+                    >
+                        LinkedIn
+                    </motion.a>
+
+                </motion.div>
                 {/* BUTTONS */}
                 <motion.div
                     className="mt-6 flex gap-4"
@@ -67,6 +87,8 @@ export default function Hero() {
                     >
                         View Work
                     </motion.a>
+
+
                 </motion.div>
 
             </section>
