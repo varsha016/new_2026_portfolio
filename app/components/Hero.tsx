@@ -40,7 +40,7 @@ export default function Hero() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.3, duration: 0.6 }}
                 >
-                    Full Stack Developer specializing in React, Next.js, and modern web applications.
+                    Full Stack Developer specializing in React, Next.js, and Node.js, focused on building scalable, high-performance web applications.
                 </motion.p>
 
                 {/* BUTTONS */}
