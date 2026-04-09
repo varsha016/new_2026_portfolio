@@ -6,6 +6,7 @@ if (!MONGODB_URI) {
   throw new Error("Please define MONGODB_URI in .env");
 }
 
+
 // ✅ define global type
 interface MongooseCache {
   conn: typeof mongoose | null;
