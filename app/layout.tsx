@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "React & Node.js Developer Portfolio",
   description:
-    "Skilled React and Node.js developer with 2.6+ years of experience.",
+    "Skilled React,Next and Node.js developer with 2.6+ years of experience",
 };
 
 export default function RootLayout({
