@@ -18,11 +18,11 @@ const experiences = [
         company: "Banao Technologies",
         date: "Nov 2023 – May 2024",
     },
-    {
-        role: "Web Developer (Intern)",
-        company: "Skillhub-IT Solution",
-        date: "Mar 2023 – Nov 2023",
-    },
+    // {
+    //     role: "Web Developer (Intern)",
+    //     company: "Skillhub-IT Solution",
+    //     date: "Mar 2023 – Nov 2023",
+    // },
 ];
 
 export default function Experience() {

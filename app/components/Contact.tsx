@@ -76,7 +76,7 @@ export default function Contact() {
                     <div className="space-y-2 mt-4">
                         <p className="text-gray-300">📞 9623067667</p>
                         <p className="text-gray-300">📧 varsha16@gmail.com</p>
-                        <p className="text-gray-300">📸 Instagram: varsha54</p>
+
                     </div>
                 </motion.div>
 
